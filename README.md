@@ -22,14 +22,12 @@ O sistema permite gerenciar funcionários por meio de um banco de dados SQLite, 
 
 ## Estrutura do projeto
 
-`
 projeto/
-|
-|---main.py
-|---banco.py
-|---funcionarios.db
-|---README.md
-`
+│
+├── main.py
+├── banco.py
+├── funcionarios.db
+└── README.md
 
 ## COMO EXECUTAR
 
